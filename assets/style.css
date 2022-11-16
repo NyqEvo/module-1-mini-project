@@ -1,0 +1,30 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header {
+    color: white;
+    background-color: burlywood;
+    position: fixed;
+    top: 0px;
+}
+
+li {
+    display: inline;
+}
+
+.card {
+    background-color: aquamarine;
+}
+
+#about-me {
+    background-color: azure;
+}
+
+#contact-me {
+    background-color: blanchedalmond;
+}
+
+#form1 {
+    background-color: blanchedalmond;
+}
