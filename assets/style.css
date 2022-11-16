@@ -7,6 +7,7 @@ header {
     background-color: burlywood;
     position: fixed;
     top: 0px;
+    right: 0px;
 }
 
 li {
